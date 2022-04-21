@@ -11,14 +11,14 @@
 ## Install
 
 ```bash
-composer require jxlwqq/data-table
+composer require snowsoft/data-table
 php artisan vendor:publish --tag=laravel-admin-data-table
 ```
 
 ## Update
 
 ```bash
-composer require jxlwqq/data-table
+composer require snowsoft/data-table
 php artisan vendor:publish --tag=laravel-admin-data-table --force
 ```
 
